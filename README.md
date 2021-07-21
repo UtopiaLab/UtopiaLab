@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UtopiaLab
+- 👋 Hi, I’m Umayanga Madushan @UtopiaLab
 - 👀 I’m interested in coding various languages.
 - 🌱 I’m currently learning in University of Sri Jayewardenepura
 - 💞️ I’m not looking to collaborate on any other projects for now.
